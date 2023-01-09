@@ -6,3 +6,6 @@ Course link: https://www.udemy.com/course/spring-boot-and-apache-kafka/?referral
 Spring Boot Kafka Producer Consumer Example Tutorial - https://www.javaguides.net/2022/05/spring-boot-kafka-producer-consumer-example-tutorial.html
 
 Spring Boot Kafka JsonSerializer and JsonDeserializer Example - https://www.javaguides.net/2022/05/spring-boot-kafka-jsonserializer-and-Jsondeserializer-example.html
+
+
+https://www.javaguides.net/2022/06/spring-boot-apache-kafka-tutorial.html
